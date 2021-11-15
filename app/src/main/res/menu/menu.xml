@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/list1"
+        android:icon="@drawable/favorite_foreground"
+        android:title="@string/favorite" />
+
+    <item
+        android:id="@+id/list2"
+        android:icon="@drawable/star_foreground"
+        android:title="@string/star" />
+</menu>
